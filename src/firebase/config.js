@@ -4,13 +4,13 @@ import 'firebase/storage';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyBS--FKQOoz9mvcnF0ipHsG0PeOGwXl1UQ',
-  authDomain: 'react-cv-6da38.firebaseapp.com',
-  databaseURL: 'https://react-cv-6da38.firebaseio.com',
-  projectId: 'react-cv-6da38',
-  storageBucket: 'react-cv-6da38.appspot.com',
-  messagingSenderId: '425732378832',
-  appId: '1:425732378832:web:a17b2c6a7672895c4a4ed5',
+  apiKey: 'AIzaSyCydUh0FWAzXiVrmw7NBBSwer6aXRdtkkE',
+  authDomain: 'my-cv-25c23.firebaseapp.com',
+  databaseURL: 'https://my-cv-25c23.firebaseio.com',
+  projectId: 'my-cv-25c23',
+  storageBucket: 'my-cv-25c23.appspot.com',
+  messagingSenderId: '549212108672',
+  appId: '1:549212108672:web:61f4348d23955e06d83365',
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
